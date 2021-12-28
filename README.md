@@ -1,7 +1,7 @@
 # Share X
 
-A travel companion app displaying restaurants, hotels and attractions based on geolocation and by search.
+A Full stack photo sharing app with features including Create, Delete images, Save and Comment on posts, Filter and Search images.
 
-- Weather conditions integrated over maps alongwith notable properties of each place. Material UI is used for interfaces.
-- Data fetches from Travel Advisor, Google Maps, Places and Open Weather Map APIs.
+- Integrated with OAuth Google sign-in. Tailwind CSS and ReactJs is used for interfaces.
+- BackEnd and Database is hosted on Sanity(CMS).
 - Deployed on [Netlify](https://sharex-social.netlify.app)
